@@ -18,4 +18,3 @@ The main inpiration for this project is to append commonly used keywords to sear
 - quick links (user defined bookmarks)
 - clock
 - unsplash background
-
